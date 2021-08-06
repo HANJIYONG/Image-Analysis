@@ -5,7 +5,7 @@
 각 물체별로 다양한 Measurements를 측정해 평균값을 기록 후 이를 토대로 새로운 sample에 대해서 올바르게 물체를 분류할 수 있도록 합니다. 
 
 
-<center><img src="./img/image_analysis.gif" width="200" height="200" display="inline-block"></img></center>
+<center><img src="./img/image_analysis.gif" display="inline-block"></img></center>
 
 
 
